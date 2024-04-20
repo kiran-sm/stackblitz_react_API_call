@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/stackblitz_react_API_call/static/css/main.c76de836.css",
+    "main.js": "/stackblitz_react_API_call/static/js/main.30de8013.js",
+    "index.html": "/stackblitz_react_API_call/index.html",
+    "main.c76de836.css.map": "/stackblitz_react_API_call/static/css/main.c76de836.css.map",
+    "main.30de8013.js.map": "/stackblitz_react_API_call/static/js/main.30de8013.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c76de836.css",
+    "static/js/main.30de8013.js"
+  ]
+}
